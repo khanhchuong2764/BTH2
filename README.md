@@ -1,6 +1,6 @@
 # Tên Dự Án
 
-![Logo Dự Án](link-to-your-logo.png)
+![Logo Dự Án](https://chiemtaimobile.vn/images/companies/1/%E1%BA%A2nh%20Blog/avatar-facebook-dep/Anh-avatar-hoat-hinh-de-thuong-co-be-doi-mu.jpeg?1704788068824)
 
 ## Mô Tả
 Dự án này là một phần của bài tập nhóm cho khóa học [Tên Khóa Học]. Mục tiêu của dự án là [mô tả mục tiêu dự án].
